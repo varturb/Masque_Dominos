@@ -1,0 +1,8 @@
+## Interface: 30400
+## Title: Masque: Dominos
+## Notes: Dominos skin for Masque.
+## Version: 1
+## Author: varturb
+## Dependencies: Masque
+
+Skin.lua
